@@ -13,8 +13,8 @@
  </a>
 </p>
 
-- 🔭 👋 Hello World! I'm [Habibullah]
-- 🚀 Currently orbiting in the world of [Programming]. 
+- 🔭 👋 Hello World! I'm Habibullah.
+- 🚀 Currently orbiting in the world of Programming. 
 - 🌱 Always learning, always coding - because the best code is the one that's yet to be written.
 - 👨‍🚀 On a mission to make the digital world a better place, one bug fix at a time.
 - 🔍 Exploring the realms of databases, APIs, and all things server-side.
