@@ -1,4 +1,4 @@
-## 👋 Welcome to my GitHub world, Where code mirrors logical patterns - [Habibullah Alim](https://github.com/HabibullahAlim)
+## 👋 Welcome to my GitHub world. Code is the language of logic - [Habibullah Alim](https://github.com/HabibullahAlim)
 
 
 ![Habibullah Alim](https://readme-typing-svg.demolab.com/?font=Consolas&weight=600&pause=1000&color=F58A02&center=true&vCenter=true&width=435&lines=I+am+Programmer+And+Backend+Developer)
