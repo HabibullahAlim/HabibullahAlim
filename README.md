@@ -20,10 +20,8 @@
 - 🔍 Exploring the realms of databases, APIs, and all things server-side.
 - 💬 Let's talk about code, collaboration, or the latest tech trends. Open to new opportunities and connections!
 - Happy Coding! 🖥️💡
-
 <br>
 I turn coffee into code ☕👨‍💻. As a backend developer, I thrive on turning complex problems into elegant solutions. My code is my canvas, and I love creating art in the form of seamless, efficient systems.
-
 <br>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibullahAlim&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook,Ada)
