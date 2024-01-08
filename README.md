@@ -13,13 +13,17 @@
  </a>
 </p>
 
-- 🔭 Assalam o Alaikum ! Friends, This is my Github profile👋.
-- 🌱 To the world, I am a Backend Developer i believes that code change live.
-- ⚡ Currently i worked as Backend Engineer, but i also learns Web technologies, like frontend and others applications. 
-<br>
-  
+- 🔭 👋 Hello World! I'm [Habibullah]
+- 🚀 Currently orbiting in the world of [Programming]. 
+- 🌱 Always learning, always coding - because the best code is the one that's yet to be written.
+- 👨‍🚀 On a mission to make the digital world a better place, one bug fix at a time.
+- 🔍 Exploring the realms of databases, APIs, and all things server-side.
+- 💬 Let's talk about code, collaboration, or the latest tech trends. Open to new opportunities and connections!
+- Happy Coding! 🖥️💡
 
-Software technology is the backbone of modern civilization.It's the art of crafting digital tools that streamline tasks, connect people globally, and reshaping our world.
+<br>
+I turn coffee into code ☕👨‍💻. As a backend developer, I thrive on turning complex problems into elegant solutions. My code is my canvas, and I love creating art in the form of seamless, efficient systems.
+
 <br>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibullahAlim&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook,Ada)
